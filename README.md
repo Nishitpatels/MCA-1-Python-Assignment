@@ -1,6 +1,6 @@
 # 📝 Assignment-1 (MCA-1 | Roll No: 27)
 
-**Deadline:** 15th September  
+**Deadline:** 16th September  
 **Course:** MCA-1 Python Programming  
 
 This folder contains solutions to Assignment-2 given by **Prof. Hardik Joshi**.  
