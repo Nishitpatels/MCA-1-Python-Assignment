@@ -3,9 +3,9 @@
 **Deadline:** 16th September  
 **Course:** MCA-1 Python Programming  
 
-This folder contains solutions to Assignment-2 given by **Prof. Hardik Joshi**.  
-Each question is solved in **individual `.py` files**, and also compiled in a **Jupyter Notebook (`Assignment2.ipynb`)**.  
-A **PDF file (`Assignment2.pdf`)** is also provided with code + output.  
+This folder contains solutions to Assignment-1 given by **Prof. Hardik Joshi**.  
+Each question is solved in **individual `.py` files**, and also compiled in a **Jupyter Notebook (`Assignment1.ipynb`)**.  
+A **PDF file (`Assignment1.pdf`)** is also provided with code + output.  
 
 ---
 
