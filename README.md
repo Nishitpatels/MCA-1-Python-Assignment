@@ -1,4 +1,4 @@
-# 📝 Assignment-2 (MCA-1 | Roll No: 27)
+# 📝 Assignment-1 (MCA-1 | Roll No: 27)
 
 **Deadline:** 15th September  
 **Course:** MCA-1 Python Programming  
